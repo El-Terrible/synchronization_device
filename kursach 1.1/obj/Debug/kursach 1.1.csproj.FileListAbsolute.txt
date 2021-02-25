@@ -1,0 +1,13 @@
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\bin\Debug\kursach 1.1.exe.config
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\bin\Debug\kursach 1.1.exe
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\bin\Debug\kursach 1.1.pdb
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach 1.1.csprojResolveAssemblyReference.cache
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach_1._1.Properties.Resources.resources
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach 1.1.csproj.GenerateResource.Cache
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach 1.1.exe
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach 1.1.pdb
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach_1._1.AddForm.resources
+C:\Users\J-K\Desktop\MyGoogleDrive\Google Диск\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach_1._1.MainForm.resources
+I:\Book&HDD\311\учеба\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\bin\Debug\kursach 1.1.exe.config
+I:\Book&HDD\311\учеба\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach 1.1.exe
+I:\Book&HDD\311\учеба\учеба 6-смес\ООП\Курсовая\kursach 1.1\kursach 1.1\obj\Debug\kursach 1.1.pdb
